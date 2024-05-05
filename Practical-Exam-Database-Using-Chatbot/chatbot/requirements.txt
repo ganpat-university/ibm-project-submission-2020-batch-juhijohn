@@ -1,0 +1,4 @@
+Flask==3.0.3
+Flask_Cors==4.0.0
+pycryptodome==3.11.0
+pymongo==4.7.1
